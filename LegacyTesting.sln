@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SproutMethod", "SproutMethod\SproutMethod.csproj", "{F82A3329-A06E-4E46-802E-B01BCAFCBCB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SproutMethod.Tests", "SproutMethod.Tests\SproutMethod.Tests.csproj", "{B1CD0EBE-6561-45A0-B3CE-CB2FC9DF078E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SproutMethod.Tests", "SproutMethod.Tests\SproutMethod.Tests.csproj", "{B1CD0EBE-6561-45A0-B3CE-CB2FC9DF078E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SproutClass", "SproutClass\SproutClass.csproj", "{E96D4EA1-7A70-4453-A335-4E0490885BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SproutClass.Tests", "SproutClass.Tests\SproutClass.Tests.csproj", "{5E58329B-BD72-4F8B-B8CE-85EFB50DE6D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B1CD0EBE-6561-45A0-B3CE-CB2FC9DF078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1CD0EBE-6561-45A0-B3CE-CB2FC9DF078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1CD0EBE-6561-45A0-B3CE-CB2FC9DF078E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96D4EA1-7A70-4453-A335-4E0490885BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96D4EA1-7A70-4453-A335-4E0490885BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96D4EA1-7A70-4453-A335-4E0490885BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96D4EA1-7A70-4453-A335-4E0490885BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E58329B-BD72-4F8B-B8CE-85EFB50DE6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E58329B-BD72-4F8B-B8CE-85EFB50DE6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E58329B-BD72-4F8B-B8CE-85EFB50DE6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E58329B-BD72-4F8B-B8CE-85EFB50DE6D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
