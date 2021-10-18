@@ -1,0 +1,125 @@
+{
+  "SproutMethod.dll": {
+    "D:\\UdemyTrainings\\LegacyTesting-master\\SproutMethod\\LegacyClass.cs": {
+      "SproutMethod.LegacyClass": {
+        "System.Void SproutMethod.LegacyClass::AppendDictionary(System.Collections.Generic.Dictionary`2<TKey,TValue>,System.Collections.Generic.Dictionary`2<TKey,TValue>)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": [
+            {
+              "Line": 11,
+              "Offset": 58,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 11,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Collections.Generic.Dictionary`2<TKey,TValue> SproutMethod.LegacyClass::GetValidItems(System.Collections.Generic.Dictionary`2<TKey,TValue>,System.Collections.Generic.Dictionary`2<TKey,TValue>)": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 9,
+            "21": 3,
+            "22": 3,
+            "23": 2,
+            "24": 2,
+            "25": 2,
+            "26": 3,
+            "27": 1,
+            "28": 1
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 77,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 22,
+              "Offset": 44,
+              "EndOffset": 46,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 22,
+              "Offset": 44,
+              "EndOffset": 69,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 20,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "D:\\UdemyTrainings\\LegacyTesting-master\\SproutMethod\\Program.cs": {
+      "SproutMethod.Program": {
+        "System.Void SproutMethod.Program::Main(System.String[])": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": [
+            {
+              "Line": 19,
+              "Offset": 170,
+              "EndOffset": 112,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
